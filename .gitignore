@@ -1,0 +1,12 @@
+venv
+papers.csv
+__pycache__
+.DS_Store
+apikey.txt
+kaggle/authors.csv
+kaggle/papers.csv
+
+universities_above_100_icml.csv
+universities_above_100.csv
+affiliation_counts.csv
+affiliation_counts.txt
