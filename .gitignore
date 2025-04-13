@@ -5,6 +5,7 @@ __pycache__
 apikey.txt
 kaggle/authors.csv
 kaggle/papers.csv
+work.ipynb
 
 universities_above_100_icml.csv
 universities_above_100.csv
