@@ -30,5 +30,3 @@ This repository contains the code and analysis for a writing assignment in CS328
 This repository is for academic purposes only.
 
 ---
-
-For more details, refer to the Jupyter notebooks or reach out through the issue tracker.
