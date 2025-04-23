@@ -2,11 +2,16 @@
 
 This repository contains the code and analysis for a writing assignment in CS328. This course is taken by **Prof. Anirban Dasgupta** at IITGN. It explores key trends in machine learning research over the past decade using publication data from ICML, NeurIPS, and ICLR.
 
+## Submission Paper 
+
+➤ Paper: [`writing_assignment_cs328.pdf`](https://github.com/Aryan-IIT/writing_cs328/blob/main/writing_assignment_cs328.pdf)
+
 ## Folder Structure
 - `hypothesis/` – Contains notebooks evaluating each of the four hypotheses
 - `ds-summary.ipynb` – Exploratory data analysis used to support the insights
 - `README.md` – Project overview
 - `.gitignore` – Standard ignore file
+- 'writing_assignment_cs328.pdf' - main submission file.
 
 ## Hypotheses and Analyses
 
